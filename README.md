@@ -15,8 +15,7 @@
 
     8. Implement a Chatting application using JAVA TCP and UDP sockets.
 
-    9. Hello command is used to know whether the machine at the other end is working or not. 
-Echo command is used to measure the round trip time to the neighbour. Implement Hello and Echo commands using JAVA.
+    9. Hello command is used to know whether the machine at the other end is working or not. Echo command is used to measure the round trip time to the neighbour. Implement Hello and Echo commands using JAVA.
 
     10. Use Ethereal tool to capture the information about packets.
 
