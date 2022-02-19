@@ -1,0 +1,19 @@
+delay  
+
+1.Transmission D = Len(pkt)/B.W.
+
+2.Propagation D = Dist/vel
+
+3.Queing D = ?
+
+4.Processing D = ?
+
+
+n = Tt/ Tt + 2 Tp
+
+THR = L  /  Tt +2*Tp
+	(Tt / Tt + 2*Tp ) B.W.
+
+pkt loss ?
+
+jitter  = prev.delay - current.delay
